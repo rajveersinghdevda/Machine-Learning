@@ -1,4 +1,7 @@
 # Machine-Learning
+Assignment: Computational Statistics BTCSCS204
+Consider the following dataset: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
 1.	From the attached data set, visualise the data set and find the correlation between the features.
 2.	Apply the multiple linear regression and generate the regression model. find out its parameter and check whether the estimate estimated parameters are correct or not.
 3.	For the attached data set, check whether multi collinearity exists in your data set or not.
